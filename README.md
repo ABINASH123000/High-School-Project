@@ -1,11 +1,11 @@
 🎓 High School Projects
-A collection of projects developed by Abinash as part of high school coursework. This repository showcases work in C++ programming and web development.
+A collection of projects developed by Abinash as part of high school coursework. This repository showcases work in  C  programming and web development.
 
 📁 Project Overview
-ProjectLanguage/TechDescriptionBanking SystemC++Console-based banking applicationNepal Tourism WebsiteHTML, CSSStatic website promoting Nepal tourismOperation In ArrayC++Array manipulation and operations
+ProjectLanguage/TechDescriptionBanking System C Console-based banking applicationNepal Tourism WebsiteHTML, CSSStatic website promoting Nepal tourismOperation In Array C Array manipulation and operations
 
 🏦 Banking System
-A console-based banking management system built in C++.
+A console-based banking management system built in  C .
 Features:
 
 Create and manage bank accounts
@@ -15,7 +15,7 @@ Basic account management using file handling or data structures
 
 Technologies Used:
 
-C++
+ C 
 Object-Oriented Programming (OOP) concepts
 
 
@@ -34,7 +34,7 @@ CSS3
 
 
 🔢 Operation In Array
-A C++ program demonstrating various operations on arrays.
+A  C  program demonstrating various operations on arrays.
 Features:
 
 Array traversal and manipulation
@@ -43,16 +43,10 @@ Demonstrates fundamental data structure concepts
 
 Technologies Used:
 
-C++
-
-
-📊 Languages Used
-Show Image
-Show Image
-Show Image
+ C Programming
 
 🚀 Getting Started
-For C++ Projects (Banking System / Operation In Array)
+For  C  Projects (Banking System / Operation In Array)
 
 Clone the repository:
 
@@ -64,7 +58,7 @@ bash   cd "Banking System"
    # or
    cd "Operation In Array"
 
-Compile the C++ file:
+Compile the  C  file:
 
 bash   g++ filename.cpp -o output
 
