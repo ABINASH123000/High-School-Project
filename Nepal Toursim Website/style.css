@@ -1,0 +1,201 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #000000;
+    background-image: url(bg4.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  .fullwebsite {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: #ffffff;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  
+  .hr {
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid #0B0c10;
+  }
+  
+  .navbar {
+    background-image: url(931724.png);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .topic {
+    width: 30px;
+    align-content: center;
+    flex: 1;
+  }
+  
+  #head {
+    color: #0a100e;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .navser {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  #nevser {
+    margin-right: 20px;
+    color: #b85a3b;
+    text-decoration: none;
+  }
+  
+  #nevser:hover {
+    color: #79d6ca;
+  }
+  
+  .intro {
+    padding: 20px;
+  }
+  
+  .nepal {
+    margin-bottom: 20px;
+  }
+  
+  #para1 {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: antiquewhite;
+    
+  }
+  #para{
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: transparent;
+  }
+  
+  .mainbody {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .mountain1,.mountain2,.mountain3,.mountain4,.mountain5,.mountain6 {
+    flex-basis: auto;
+    margin: 20px;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+    background-color: #2d9fc8;
+    border: 1px solid transparent;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .mountain1{
+    background-image: url(kath.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .mountain2{
+    background-image: url(POKHARA.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .mountain3
+  {
+    background-image: url(LUMBINI.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .mountain4
+  {
+    background-image:url(bhaktapur-rainy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .mountain5
+  {
+    background-image: url(Mount-Everest.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .mountain6
+  {
+    background-image: url(bg-nepal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .mountain1 h2,.mountain2 h2,.mountain3 h2,.mountain4 h2,.mountain5 h2,.mountain6 h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .mountain1 p,.mountain2 p,.mountain3 p,.mountain4 p,.mountain5 p,.mountain6 p {
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }
+  #para:hover{
+    color: antiquewhite;
+    background-color: rgb(11, 13, 16);
+    opacity: calc(60%);
+    font: bolder;
+  }
+  #head1{
+    margin-left: 10px;
+    color: #ffffff;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #op{
+    height: 500px;
+  }
+  #op:hover{
+    border: 1px solid white;
+
+  }
+  .contact{
+    background-color: #000000;
+    opacity: 40%;
+    height: 20px;
+    width: 100%;
+  }
+  .info{
+    color: #ffffff;
+    font-family: times new roman;
+    text-align: center;
+    box-shadow: #ffffff;
+    
+  }
+  #info{
+    margin: 20px;
+  }
+  #name{
+    color: #ffffff;
+    font-size: medium;
+  }
